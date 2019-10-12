@@ -1,6 +1,10 @@
-# itufast
+# ITUFast
 
-This is the repository for the Modern AI project ITUFast which aims to evolve a neuronal network that is capable of competing in a racing game.
+This is the repository for the Modern Artificial Intelligence project ITUFast, which aims to evolve a neural network that is capable of competing in a racing game. The project was developed by Winfried Baumann, Emilio Capo and David Oppenberg.
+
+## Abstract
+
+The task of image-input based game controllers has been popularized most notably by the paper ”Playing Atari with Deep Reinforcement Learning”, in which agents are trained to interpret an image input with ReinforcementLearning and stochastic gradient descend. Deep Neuroevolution has proven to be a competitive alternative to gradient-basedtraining of Convolution Neural Networks, albeit only in thedomain of 2D games. We therefore propose two image-based controllers exploiting two different CNN architectures, which have been trained with Deep Neuroevolution to navigate a virtual car in a 3D environment. The results show that, even if the agents did not manage to learn the task completely,this approach is promising when applied to moderate-sizednetworks. However, there is large space for improvement, sinceour work was significantly limited by computational resources and time.
 
 ## Setup
 
