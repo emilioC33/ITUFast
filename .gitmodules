@@ -1,0 +1,9 @@
+[submodule "UnrealRacing/Plugins/tensorflow-ue4"]
+	path = UnrealRacing/Plugins/tensorflow-ue4
+	url = git@github.com:getnamo/tensorflow-ue4.git
+[submodule "UnrealRacing/Plugins/UnrealEnginePython"]
+	path = UnrealRacing/Plugins/UnrealEnginePython
+	url = git@github.com:getnamo/UnrealEnginePython.git
+[submodule "UnrealRacing/Plugins/socketio-client-ue4"]
+	path = UnrealRacing/Plugins/socketio-client-ue4
+	url = git@github.com:getnamo/socketio-client-ue4.git

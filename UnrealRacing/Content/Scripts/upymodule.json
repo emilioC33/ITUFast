@@ -1,0 +1,6 @@
+{
+	"name" : "unreal-racing",
+	"pythonModules": {
+		"scipy": "1.1.0"
+	}
+}
